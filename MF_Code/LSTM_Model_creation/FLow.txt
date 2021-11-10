@@ -1,0 +1,13 @@
+
+<br>
+Steps to be Followed:-<br>
+Load the dataset from CSV file.<br>
+Transform the dataset to make it suitable for the LSTM model, including:<br>
+Transforming the data to a supervised learning problem.<br>
+Transforming the data to be stationary.<br>
+Transforming the data so that it has the scale -1 to 1.<br>
+Fitting a stateful LSTM network model to the training data.<br>
+Evaluating the static LSTM model on the test data.<br>
+Report the performance of the forecasts.<br>
+<br>
+ Load Librraies
